@@ -39,11 +39,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Project Purpose
 
-This project demonstrates how to perform CRUD operations on user data using Angular and NgRx. It uses JSONPlaceholder as a mock API to simulate backend operations. The application includes features such as:
-    - Listing users
-    - Adding a new user
-    - Updating an existing user
-    - Deleting a user
+This project demonstrates how to perform CRUD operations on user data using Angular and NgRx. It uses JSONPlaceholder as a mock API to simulate backend operations. The application includes features such as:<br>
+    - Listing users<br>
+    - Adding a new user<br>
+    - Updating an existing user<br>
+    - Deleting a user<br>
 
 ## API 
 
